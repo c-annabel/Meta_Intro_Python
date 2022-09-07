@@ -1,0 +1,6 @@
+This is a new file created! This is second. This is thrid.
+This is a new line.
+Appending texts.
+Appending texts.
+Appending texts.
+Appending texts.
